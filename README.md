@@ -15,7 +15,7 @@ I primarily worked in 📟Mainframe technologies📟 like JCL, COBOL, VSAM and D
 - Java and Spring Framework
 
 📫 How to reach me
-- I am always reachable my mail ID chandruferrari@gmail.com and mobile number +91-8722391569.
+- I am always reachable via my mail ID chandruferrari@gmail.com.
 
 <!---
 ChandraMohan-D/ChandraMohan-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
